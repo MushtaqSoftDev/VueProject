@@ -1,0 +1,30 @@
+body {
+    background-color: powderblue;
+}
+#app {
+    background-color: white;
+    margin: 25rem auto;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 25px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+.btn-primary {
+    background: #6cb2eb;
+    color: #fff;
+}
+.btn-cancel {
+    color: #fff;
+    background: orangered;
+}
+.strikeout {
+    text-decoration: line-through; 
+}
+.priority {
+    color: #de751f;
+}
+
